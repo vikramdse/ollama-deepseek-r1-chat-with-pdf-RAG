@@ -16,7 +16,7 @@ A Streamlit-based application that allows users to upload PDF documents and ask 
 - Python 3.x
 - Streamlit
 - LangChain
-- FAISS for vector storage
+- FAISS for vector storage (in-memory)
 - Ollama for embeddings and LLM
 - PDFPlumber for PDF processing
 
