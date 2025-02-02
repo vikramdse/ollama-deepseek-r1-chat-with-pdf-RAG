@@ -1,4 +1,4 @@
-# PDF Q&A
+# PDF Q&A RAG
 
 A Streamlit-based application that allows users to upload PDF documents and ask questions about their content. The app uses semantic search and LLM-powered question answering to provide accurate responses based on the document content.
 
@@ -32,8 +32,8 @@ Before running the application, make sure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/pdf-qa.git
-cd pdf-qa
+git clone https://github.com/vikramdse/ollama-deepseek-r1-chat-with-pdf-RAG.git
+cd ollama-deepseek-r1-chat-with-pdf-RAG
 ```
 
 2. Create and activate a virtual environment:
